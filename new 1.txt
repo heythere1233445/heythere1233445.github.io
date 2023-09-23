@@ -1,0 +1,7 @@
+Josh Yost, jryost@my.waketech.edu
+
+My GitHub account was already created before I did this but I never used it
+
+I created a repository so that I can put future classwork and other things inside
+
+I downloaded Github Desktop, then I pressed on clone repository, then I had to find out where the folder was just in case and finally I edited the readme file inside and I'm typing in Notepad++ now.
